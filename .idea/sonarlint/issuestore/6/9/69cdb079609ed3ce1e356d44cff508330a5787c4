@@ -1,0 +1,6 @@
+
+0
+java:S1220""Move this file to a named package.
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÉÛÈ8Ï¢•ö1
+G	java:S106"+Replace this use of System.out by a logger.(ä©•İ8‘Ï¢•ö1
